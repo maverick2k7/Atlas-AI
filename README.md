@@ -291,7 +291,7 @@ atlas/
 
 ## Live Demo
 
-🔗 [atlas-ai.up.railway.app](https://atlas-ai.up.railway.app) ← *add your Railway URL here*
+🔗 [atlas-ai-production-6301.up.railway.app](https:\\atlas-ai-production-6301.up.railway.app) 
 
 ---
 

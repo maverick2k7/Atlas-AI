@@ -291,7 +291,7 @@ atlas/
 
 ## Live Demo
 
-🔗 [atlas-ai-production-6301.up.railway.app](https:\\atlas-ai-production-6301.up.railway.app) 
+🔗 [atlas-ai-production-6301.up.railway.app](atlas-ai-production-6301.up.railway.app) 
 
 ---
 

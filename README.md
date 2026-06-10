@@ -120,7 +120,7 @@ Routing accuracy measured with 30 deterministic single-agent prompts (no API key
 
 | Metric | Score |
 |---|---|
-| Supervisor routing accuracy | **83% (30 prompts)** |
+| Supervisor routing accuracy | **100% (30 prompts)** |
 | Multi-agent pipeline completion | **3 / 3 pipelines** |
 | Avg supervisor latency | ~1.2s |
 

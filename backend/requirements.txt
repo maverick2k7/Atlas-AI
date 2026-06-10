@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-groq
+langchain-mcp-adapters
+chromadb
+sentence-transformers
+tavily-python
+fastapi
+uvicorn
+python-dotenv
+pydantic-settings
+websockets
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client

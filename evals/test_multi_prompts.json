@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Research the latest news on LangGraph, write me a summary email, and schedule 30 minutes to read it tomorrow morning.",
+    "expected_plan": ["researcher", "writer", "scheduler"]
+  },
+  {
+    "prompt": "Look up recent AI agent news and draft a short report for my team.",
+    "expected_plan": ["researcher", "writer"]
+  },
+  {
+    "prompt": "Summarise my unread emails and schedule a follow-up meeting tomorrow at 2pm.",
+    "expected_plan": ["summariser", "scheduler"]
+  }
+]

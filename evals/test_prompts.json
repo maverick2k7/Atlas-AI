@@ -1,0 +1,35 @@
+[
+  {"prompt": "What are the latest developments in AI agents this week?", "expected_agent": "researcher"},
+  {"prompt": "Research OpenAI's newest model releases in 2026", "expected_agent": "researcher"},
+  {"prompt": "Find information about LangGraph and how it works", "expected_agent": "researcher"},
+  {"prompt": "What is the current state of MCP (Model Context Protocol)?", "expected_agent": "researcher"},
+  {"prompt": "Look up recent news about Google DeepMind", "expected_agent": "researcher"},
+  {"prompt": "Search for best practices for building multi-agent AI systems", "expected_agent": "researcher"},
+  {"prompt": "What programming languages are most in demand for AI jobs in 2026?", "expected_agent": "researcher"},
+  {"prompt": "Find the latest benchmarks comparing GPT-4 and Claude models", "expected_agent": "researcher"},
+
+  {"prompt": "Draft a professional email to my professor asking for a deadline extension", "expected_agent": "writer"},
+  {"prompt": "Write a cover letter for a software engineering internship at Google", "expected_agent": "writer"},
+  {"prompt": "Edit this paragraph to sound more formal and professional", "expected_agent": "writer"},
+  {"prompt": "Write a LinkedIn summary for a computer science student", "expected_agent": "writer"},
+  {"prompt": "Draft a polite follow-up email after a job interview", "expected_agent": "writer"},
+  {"prompt": "Summarise this research paper in 3 bullet points", "expected_agent": "writer"},
+  {"prompt": "Write a project README for my GitHub repository", "expected_agent": "writer"},
+  {"prompt": "Rewrite this message to sound less aggressive", "expected_agent": "writer"},
+
+  {"prompt": "Schedule a study session for tomorrow at 3pm for 2 hours", "expected_agent": "scheduler"},
+  {"prompt": "Book a meeting with my team next Monday at 10am", "expected_agent": "scheduler"},
+  {"prompt": "What events do I have scheduled this week?", "expected_agent": "scheduler"},
+  {"prompt": "Create a calendar event for my dentist appointment on Friday at 2pm", "expected_agent": "scheduler"},
+  {"prompt": "Block out 4 hours every Sunday morning for deep work", "expected_agent": "scheduler"},
+  {"prompt": "Schedule a 30-minute daily standup every weekday at 9am", "expected_agent": "scheduler"},
+  {"prompt": "Am I free tomorrow afternoon between 2pm and 5pm?", "expected_agent": "scheduler"},
+  {"prompt": "Move my 3pm meeting to 5pm today", "expected_agent": "scheduler"},
+
+  {"prompt": "Summarise my last 5 unread emails", "expected_agent": "summariser"},
+  {"prompt": "What emails did I receive from my professor this week?", "expected_agent": "summariser"},
+  {"prompt": "Show me any urgent emails I need to respond to", "expected_agent": "summariser"},
+  {"prompt": "Give me a digest of my inbox from the last 24 hours", "expected_agent": "summariser"},
+  {"prompt": "Have I received any emails about my internship application?", "expected_agent": "summariser"},
+  {"prompt": "Summarise all emails from my project team this month", "expected_agent": "summariser"}
+]

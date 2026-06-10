@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB persistent storage
+chroma_db/
+
+# Google OAuth credentials (never commit)
+backend/credentials/client_secret.json
+backend/credentials/token.json
+
+# Node
+node_modules/
+dist/

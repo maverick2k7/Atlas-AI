@@ -1,0 +1,4 @@
+prompt,expected_plan,actual_plan,status
+"Research the latest news on LangGraph, write me a summary email, and schedule 30 minutes to read it tomorrow morning.",researcher -> writer -> scheduler,researcher -> writer -> scheduler,PASS
+Look up recent AI agent news and draft a short report for my team.,researcher -> writer,researcher -> writer,PASS
+Summarise my unread emails and schedule a follow-up meeting tomorrow at 2pm.,summariser -> scheduler,summariser -> scheduler,PASS

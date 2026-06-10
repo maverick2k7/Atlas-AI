@@ -287,13 +287,7 @@ atlas/
 | Calendar/Gmail not responding | Run OAuth setup; agents degrade gracefully with setup instructions |
 | Stale backend after code changes | Kill all processes on port 8000 and restart uvicorn |
 
----
 
-## Live Demo
-
-🔗 [atlas-ai-production-6301.up.railway.app](atlas-ai-production-6301.up.railway.app) 
-
----
 
 <div align="center">
 

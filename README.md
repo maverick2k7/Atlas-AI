@@ -24,8 +24,8 @@
 
 <br/>
 
-<!-- Add your demo GIF here -->
-<!-- ![Atlas Demo](assets/demo.gif) -->
+
+![Atlas Demo](assets/Atlas.gif)
 
 ---
 
